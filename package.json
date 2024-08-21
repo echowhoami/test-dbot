@@ -50,6 +50,7 @@
     },
     "dependencies": {
       "@googlemaps/url-signature": "^1.0.4",
+      "lodash": "4.17.13",
       "agentkeepalive": "^4.1.0",
       "axios": "^1.5.1",
       "query-string": "<8.x",
