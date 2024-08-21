@@ -50,6 +50,7 @@
     },
     "dependencies": {
       "@googlemaps/url-signature": "^1.0.4",
+      "lodash": "4.17.13",
       "agentkeepalive": "^4.1.0",
       "axios": "^1.5.1",
       "query-string": "<8.x",
@@ -60,7 +61,7 @@
       "@types/node": "^22.1.0",
       "@typescript-eslint/eslint-plugin": "^7.0.0",
       "@typescript-eslint/parser": "^6.7.4",
-      "eslint": "^8.51.0",
+      "eslint": "^9.9.0",
       "eslint-config-prettier": "^9.0.0",
       "eslint-plugin-jest": "^28.5.0",
       "eslint-plugin-prettier": "^5.0.0",
